@@ -6,7 +6,7 @@ Link:
 
 ## How To Import GitHub Repository In Gitlab?
 
-## Make A Copy
+### Make A Copy
 
 1. Make a fork of this repository so that you would have a copy in your account to play around.
 
@@ -33,6 +33,18 @@ Link:
 5. In the **Username** field provide your GitHub username and in the **Password** field enter the GitHub PAT you have generated.
 6. Enter a project name of your choice in the **Project name** field.
 7. Select the **Visibility Level** according to your choice and click on **Create project**
+
+## How To Generate PAT For Docker Hub?
+
+1. Login to your Docker hub account.
+2. Click on the profile icon on the top-right side of the screen.
+3. Click on **Account settings** as shown below -
+   ![image](https://github.com/user-attachments/assets/1da8fc1f-d860-48a1-ad3f-f665c058d689)
+4. Click on **Personal access tokens**
+5. Click on **Generate new token**
+6. Provide inputs for description and expiration date.
+7. On **Access permissions** select **Read & Write**
+8. Copy and keep the token and keep it with you as it is displayed only once.
 
 ## Note
 
