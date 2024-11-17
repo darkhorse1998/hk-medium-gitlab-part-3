@@ -43,7 +43,7 @@ Link:
 5. Click on **Generate new token**
 6. Provide inputs for description and expiration date.
 7. On **Access permissions** select **Read & Write**
-8. Copy and keep the token and keep it with you as it is displayed only once.
+8. Copy and keep the token with you as it is displayed only once.
 
 ## Note
 
