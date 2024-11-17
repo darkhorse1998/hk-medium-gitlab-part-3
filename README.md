@@ -38,8 +38,7 @@ Link:
 
 1. Login to your Docker hub account.
 2. Click on the profile icon on the top-right side of the screen.
-3. Click on **Account settings** as shown below -
-   ![image](https://github.com/user-attachments/assets/1da8fc1f-d860-48a1-ad3f-f665c058d689)
+3. Click on **Account settings** as shown [here](https://github.com/user-attachments/assets/1da8fc1f-d860-48a1-ad3f-f665c058d689)
 4. Click on **Personal access tokens**
 5. Click on **Generate new token**
 6. Provide inputs for description and expiration date.
